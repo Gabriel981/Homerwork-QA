@@ -1,0 +1,18 @@
+2. Exercise #2 : Writing test scenarios - 30 minutes
+Create test cases for a mobile app(for reference you can use shazam app, the song discovery feature, sharing the song through social media apps & lyrics being displayed on the device)
+    - here include elements like priority of considered tests (prioritization - most important tests are done first - slide 11)
+    - acceptance data (slide 11)
+    - think of acceptance criteria, coverage criteria (slide 11)
+    - consider everything :) 
+
+The first step is to have to have something to test. We can’t test something just for fun (it can be a good thing if you are bored of what you do and want to test a script on a website for example).
+    The second step is to think the priority of the tests and elements that will be tested. If you need to test a mobile app like Spotify (streaming service) the first thing you will do is thinking a plan for testing this app. 
+    As soon as you finish the planning for testing, the focus will be on testing the most severity issues that can be found on this app like security, protocols, permissions and more important: the play option because this app is for sound streaming which implies listening of a song elsewhere with or without a connection on internet.
+    The app testing is the third step. The tests, will discover bugs, issues and sometimes serious security problems that can affect the joy of the customer. Also, the tests applied to the source code of the app, will not resolve the bugs that appears on testing process, but on the final of the tests a report will appear(probably). This report will be a indication in future updates of source code.
+    
+    The most important test scenarios that can be applied to a mobile app like Spotify are:
+Testing the connection from app to the database. The customers can’t listen to a song if the database does not have a connection with the app.
+The security of application can be a test scenario. It’s important to test the security of connection from application to database and from application database to the app itself. If a bug appears on this stage, the app need a serious inspection and another things that appears on the app will be ignored and also, the app will be rated negativelly on Mobile Stores.
+Also, a good ideea is to test the interface of the application. 
+
+The test scenarios applied to the app will not cover the full functionalities of the app itself. The testers needs to be thinked before testing the app and also need times to prioritisize the test cases.
