@@ -1,0 +1,7 @@
+3. Exercise #3 : Defect reporting
+In you opinion, when reporting a bug, what would you include in the given report? (name, description, date, etc).
+Feel free to think of any relevant fields that may help with identifying the bug and making it understandable for the entire team.
+Design a template for a bug report.
+
+    In my opinion, a report given by a tester needs to contain the name of the bug, a short description of him, like severity, etc. Also, a bug report can contain a date when the bug was discovered (tracked by the testing app), but it is not necessary.
+    To be understandable for the entire team, a report, is necessary to be written correctly and also to be relevant to the situation. A description of problem or a description of the bug / bugs who was tracked by the testing app, need to be correctly written, containing essential informations about line, context and also about the implications for the program itself or harmfull effects for the user.
