@@ -1,0 +1,6 @@
+Firstly, at a first view of the sign page, we can see that the design is simple, without using useless design for buttons or links (or image maybe).    
+In my opinion, the user experience can be improved by adding a link to the register form, but if the radio button before “No, I am a new customer”, do the same thing, it is not necessary and can be useless in this case.
+We can use a restriction for unusual e-mail adresses that can be placed in the text bar. For example, if we use an unusual e-mail adress like link.co or egzir.er that are associated with temporary adress e-mail creator, the system can warn us that we use a temporary e-mail adress and he can’t let us make a new account or log-in.
+Also, we can structure appart the sign-in form, because it can be very annoying if at 12.00 pm (night) we press the first radio button and the form will shows us a link to register, losing 30 seconds aprox. to come back to the road and press the second button (this is available just if the second radio button is not checked by default).
+Another modifications applied to the form like a complex design, animations or something like that, will increase the waiting time to load the form and also, will be a problem with future customers who wants to make an account for future.
+
